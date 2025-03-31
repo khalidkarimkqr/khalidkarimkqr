@@ -1,80 +1,24 @@
-<!-- Initial Section -->
-<div align="center">
-  
-  <!-- Introduction -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Aditya+Singh)](https://github.com/khalidkarimkqr)
-  
-  <img src="octocat.gif" alt="octocat" width="50" />
+# 💫 About Me:
+🤓 I develop RESTful backend apps and web parsers, work with external APIs and databases.<br>🚀 I enjoy solving business problems with code.<br>🔭I love exploring Python, working with data, grokking coding puzzles, and diving into new technologies.<br>📚 I’m currently learning how to build E-Commerce Website with Django📚 I’m currently learning how to build E-Commerce Website with Django
 
-  <!-- Connect Section -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect)](https://linktr.ee/Aditya.Singh.R)
 
-</div>
-<div align="center">
- <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Ekhalidkarimkqr&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
-</div>
-<!--  
-</div>
-<div align="center">
- <img src="https://lanyard.kyrie25.dev/api/1305957634700083212?useDisplayName=true&bg=00000000&waveColor=36BCF7&waveSpotifyColor=36BCF7" alt="Discord Status">
-</div>
- <!-- Main Content Section -->
- 
-<!-- <div align="center">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalid_kqr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidkarimkqr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid13878@hotmail.com) 
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>Discord</h4>
-        <img src="https://lanyard.kyrie25.dev/api/1305957634700083212" alt="Discord Status">
-        <h4>Holopin badges</h4>
-        <img src="https://holopin.me/adi_s" height="200" alt="Holopin badges">
-        <h4>Stack Overflow</h4>
-        <img src="https://github-readme-stackoverflow.vercel.app/?userID=23373756&theme=dark" height="200" alt="Stack Overflow">
-      </td>
-      <td align="center" width="50%">
-        <h3>GitHub Metrics</h3>
-        <img src="github-metrics-main.svg" alt="GitHub Metrics">
-      </td>
-    </tr>
+# 💻 Tech Stack:
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khalidkarimkqr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khalidkarimkqr&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidkarimkqr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khalidkarimkqr&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<!--
-</div>
-<div align="center">
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k4lyljbzoywe75iwn2sdugx7wq&count=1" alt="Music Status">
-</div>
-<!-- Bottom Section -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#
-<div align="center">
-<img src="github-metrics-main.svg" alt="GitHub Metrics">
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=khalidkarimkqr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#
-<div align="center">
-  
-  <!-- Typing Animation -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!)
-  
-  <!-- GitHub Contribution Snake -->
-  ![GitHub Contribution Snake](https://github.com/khalidkarimkqr/khalidkarimkqr/blob/output/snake-cool.svg)
-  
-  <!-- Footer -->
-  <p>
-    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
-  </p>
-  
-  <p>
-    Copyright &copy; 2023-present 
-    <a href="https://github.com/EchoSingh" target="_blank">Aditya Singh</a>
-  </p>
-  
-  <p>
-    <a href="https://github.com/EchoSingh/EchoSingh/blob/main/LICENSE">
-      <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="License Badge">
-    </a>
-  </p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
