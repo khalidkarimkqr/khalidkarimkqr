@@ -12,15 +12,21 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Khalid Karim, A Computer Science Sudent & Software Developer from Vancouer, BC
+  Hi, I'm Khalid Karim, a Passionate Software Developer from Vancouer, BC
   <br>
   <br>
   🔬 Studying Computer Science at Simon Fraser University, BC
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently working on building a crypto chatbot.
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: khalid13878@hotmail.com">khalid13878@hotmail.com</a>
 </p>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=khalidakarimkqr&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidkarimkqr&layout=compact)](https://github.com/a/github-readme-stats)
+
 
 ### :hammer_and_wrench: Languages & Frameworks:
 
@@ -120,7 +126,4 @@
     [Docs](https://github.com/Baobear520/SpeechToText/blob/main/README.md) / [Документация]()
     
     
----
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=baobear520&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baobear520&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
