@@ -6,7 +6,17 @@
   </a>
 </h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalid_kqr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidkarimkqr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid13878@hotmail.com) 
+<p align="center">
+  <a href="https://instagram.com/khalid_kqr">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/khalidkarimkqr">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:khalid13878@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <br>
 <p align="center">
