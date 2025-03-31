@@ -2,13 +2,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+KHALID+KARIM....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/khalidkarim24/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/khalid_kqr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalid_kqr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg? logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidkarimkqr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid13878@hotmail.com) 
 </h5>
 <br>
 <p align="center">
@@ -129,23 +128,6 @@
 
     [Docs](https://github.com/Baobear520/SpeechToText/blob/main/README.md) / [Документация]()
     
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalid_kqr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidkarimkqr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid13878@hotmail.com) 
+  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
