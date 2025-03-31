@@ -23,9 +23,14 @@
 </p>
 
 ---
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=khalidkarimkqr&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidkarimkqr&layout=compact)](https://github.com/a/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khalidkarimkqr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khalidkarimkqr&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidkarimkqr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=khalidkarimkqr&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 ### :hammer_and_wrench: Languages & Frameworks:
@@ -127,3 +132,21 @@
     
     
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalid_kqr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidkarimkqr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid13878@hotmail.com) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
