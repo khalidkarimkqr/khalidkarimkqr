@@ -171,18 +171,22 @@
 
 
 <!-- Contribution Stack -->
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+<h1 align="center">
+  <b><i>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Contribution Stack ✌️
+  </i></b>
+</h1>
 
 <!-- Contribution Statistics and Visuals -->
 <p align="center">
-<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=khalidkarimkqr&theme=tokyonight&hide_border=true&card_width=530&card_height=210" />
-
-
- 
-<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
+  <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=khalidkarimkqr&theme=tokyonight&hide_border=true&card_width=430&card_height=210">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=khalidkarimkqr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+  
+  <img src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">
 </p>
-<!-- Contribution Statistics and Visuals -->
 
 <!-- Activity Graph -->
 
