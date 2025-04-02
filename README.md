@@ -48,11 +48,6 @@
 </p>
  <!-- Github Readme Stats -->
 
- <!-- Waka Time in Depth Stats -->
-<p align="center">
-<a herf = "https://wakatime.com/@khalidkarimkqr">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khalidkarimkqr&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
-</p>
   <!-- Waka Time in Depth Stats -->
 
   <!-- Github Profile Summary Cards -->
