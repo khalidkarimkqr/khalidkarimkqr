@@ -167,7 +167,7 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Contribution Stack -->
@@ -178,15 +178,18 @@
 </h1>
 
 <!-- Contribution Statistics and Visuals -->
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  
   <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=khalidkarimkqr&theme=tokyonight&hide_border=true&card_width=430&card_height=210">
-  
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=khalidkarimkqr&theme=tokyonight&hide_border=true&card_width=400&card_height=200">
+
   <img src="https://github-readme-stats.vercel.app/api?username=khalidkarimkqr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-  
-  <img src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">
+
+  <img src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+
 </p>
+
 
 <!-- Activity Graph -->
 
