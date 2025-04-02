@@ -70,6 +70,42 @@
 
 
 
+ <!--Google Foobar -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <!-- Achievement Corner -->
+ 
+
+ <!-- Banners 2nd Phase -->
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+</p>
+ <!-- Banners 2nd Phase -->
+ 
+
+ <!-- Typewriting Introduction -->
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+an+Aspiring+Software+Engineer+Student;Love+to+play+Football+and+Rocket+League)](https://git.io/typing-svg)
+
+ <!-- Typewriting Introduction -->
+
+ <!-- Banners 3rd Phase : About Me -->
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
+</p>
+ <!-- Banners 3rd Phase : About Me -->
+
+ <!-- About Me -->
+<p align='left'>
+- 🔭 <b>Computer Science Undergrad</b> in <b>SFU, BC</b><br>
+- 🌱 I’m currently learning in depth 3d development using three.js😁<br>
+- ✨ Also focusing on problem-solving and full stack development <br>
+- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
+- 🥅 <i><b>2025 Goals</b></i>: Get a good Job..❤️ <br>
+- ⚡ Interests : Hikinh, Football, Call of Duty, Rocket league 😏<br>
+</p>
+ <!-- About Me -->
+
 
 <!-- Skill Section -->
 
@@ -140,7 +176,7 @@
 <!-- Contribution Statistics and Visuals -->
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khalidkarimkqr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
+
  
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
