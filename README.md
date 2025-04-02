@@ -68,74 +68,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-:briefcase: My projects :
----
 
- - ## [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
-   Tags: *#full-stack #API*
-   
-    "Under The Weather" helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS, Bootstrap, JavaScript, Docker)
-   
-   [Docs](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README.md) / [Документация](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README_RUS.md)
-    
----
-
-- ## [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
-    Tags: *#parser #data #asynchronous Python #AI/ML*
-
-    The project is a part of the app that scores clients' financial credibility using ML and CV.
-
-    It generates mock-users with personal credentials, assigns property objects (*real estate, cars, electronics*) using data from Avito API or CSV files, and stores the information in a Postgres database. The service also downloads property images, saves them in a storage bucket, and processes them with CV models (currently under development).
-    (Python, Selenium, pandas, csv, asyncio, aiohttp, aiofiles, asyncpg, PostgrSQL, MinIO, Docker)
-
-    Also includes:
-    
-    - A framework for extracting large datasets from Avito API and saving them in a CSV file or a Postgres database
-    
-    - A framework for downloading images of the items fetched from  AvitoAPI and saving them locally on a hard drive, in a CSV -file, database, or remotely in a storage bucket
-
-    [Docs](https://github.com/Baobear520/AvitoParser/blob/main/README.md) / [Документация](https://github.com/Baobear520/AvitoParser/blob/main/README_RUS.md)
-
----
-
-- ## [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
-    Tags: *#REST API #microservices*
-  
-    A real estate query service that validates property data by simulating requests to a third-party server, returns the results and stores the data in a database (Python, Django, DRF, SQLite, Celery, Redis, Docker Compose, Swagger).
-
-    [Docs](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README.md) / [Документация](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README_RUS.md)
-
----
-    
-- ## [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
-    Tags: *#parser #scraper #data #asynchronous Python #threading*
-  
-    A web scraping application designed to extract large datasets from https://saksoff5th.com using parallel multi-threading and asynchronous HTTP requests and to store obtained data in a database.
-    (Python, Selenium, threading, asyncio, aiohttp, aiofiles, SQLite).
-
-    Also includes:
-    
-    - A framework for testing, filtering out and saving valid proxies that can be used for scraping.
-    
-    [Docs](https://github.com/Baobear520/Saksoff5th.com_data_scraper/blob/main/README.md) / [Документация]()
-
----
-- ## [MMA Events Bot](https://github.com/Baobear520/mma_events_bot)
-    Tags: *#telegram bot #parser #scraper*
-
-    Parses data from https://www.sherdog.com, and sends the bot's user the links to the most recent and upcoming MMA events (Python, Telegram Bot API, request, beautiful soup, python-telegram-bot).
-
-    [Docs](https://github.com/Baobear520/mma_events_bot/blob/main/README.md) / [Документация]()
-
----
-
-- ## [Speech-To-Text Converter](https://github.com/Baobear520/SpeechToText)
-
-
-[![](https://visitcount.itsvg.in/api?id=khalidkarimkqr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
     Tags: *#AI/ML #OpenAI API*
  
     Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI API)
