@@ -37,8 +37,7 @@
 <img src="https://komarev.com/ghpvc/?username=khalidkarimkqr&label=Profile%20views&color=0e75b6&style=flat" alt="khalidkarimkqr" /> <br>
 <a herf = "https://wakatime.com/@khalidkarimkqr"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@khalidkarimkqr" /> </a> 
 <br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/khalidkarimkqr"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/khalidkarimkqr">
-</p>
+
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
