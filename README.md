@@ -184,6 +184,12 @@
 
 <!-- Activity Graph -->
 
+<!-- Footer -->
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  > 
+</p>
+<!-- Footer -->
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=khalidkarimkqr&theme=tokyo-day)
 
 <!-- Activity Graph -->
