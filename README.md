@@ -60,9 +60,80 @@
 ---
 ### :hammer_and_wrench: Technologies & Tools:
 
+
+
+<img align='center' src= "images/header.png">
+
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+<!-- Skill Section -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
+
+<!-- Banners 4th Phase : SpiderMan -->
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+<!-- Banners 4th Phase : SpiderMan -->
+
+#### 🦖 Competitive Programming
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+
+#### 📚 Frontend Development & Frameworks
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+
+#### ⛏️ Backend Development & Database Services
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+
+#### 😡 App Development
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
+
+#### 🚦 Version Control & Documentation Tools
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
+
+<!-- Skill Section -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
