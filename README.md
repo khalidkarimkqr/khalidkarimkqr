@@ -176,7 +176,7 @@
 <!-- Contribution Statistics and Visuals -->
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khalidakrimkqr&theme=tokyonight&hide_border=true&card_width=530&card_height=210)" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khalidakrimkqr&theme=tokyonight&hide_border=true&card_width=530&card_height=210" />
 
 
  
