@@ -68,13 +68,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-    Tags: *#AI/ML #OpenAI API*
- 
-    Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI API)
-
-    [Docs](https://github.com/Baobear520/SpeechToText/blob/main/README.md) / [Документация]()
-    
-  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
