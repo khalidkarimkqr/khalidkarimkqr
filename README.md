@@ -118,47 +118,48 @@
 
 #### 📚 Frontend Development & Frameworks
 
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="26">
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" height="26">
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg" height="26">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="28">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" height="28">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg" height="28">
 
 #### ⛏️ Backend Development & Database Services
 
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg" height="26">
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" height="26">
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" height="26">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg" height="28">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" height="28">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" height="28">
 
 #### 📱 App Development
 
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg" height="26">
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" height="26">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg" height="28">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" height="28">
 
 #### 🚦 Version Control & Documentation Tools
 
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="26">
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="26">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg" height="26">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="28">
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="28">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg" height="28">
+
 
 
 
