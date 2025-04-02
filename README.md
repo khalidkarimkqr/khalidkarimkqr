@@ -30,6 +30,43 @@
   📫 How to reach me: <a href="mailto: khalid13878@hotmail.com">khalid13878@hotmail.com</a>
 </p>
 
+
+<!-- Profile Views - Waka Time Stats - Followers & Stars -->
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=khalidkarimkqr&label=Profile%20views&color=0e75b6&style=flat" alt="khalidkarimkqr" /> <br>
+<a herf = "https://wakatime.com/@khalidkarimkqr"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@khalidkarimkqr" /> </a> 
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/khalidkarimkqr"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/khalidkarimkqr">
+</p>
+
+ <!-- Profile Views - Waka Time Stats - Followers & Stars -->
+
+ <!-- Github Readme Stats -->
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=khalidkarimkqr&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+<!-- ![Sumonta stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&rank_icon=percentile\&show=prs_merged,prs_merged_percentage\&theme=moltack) -->
+</p>
+ <!-- Github Readme Stats -->
+
+ <!-- Waka Time in Depth Stats -->
+<p align="center">
+<a herf = "https://wakatime.com/@khalidkarimkqr">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khalidkarimkqr&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
+</p>
+  <!-- Waka Time in Depth Stats -->
+
+  <!-- Github Profile Summary Cards -->
+<p align="center">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalidkarimkqr&theme=moltack"  />
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalidkarimkqr&theme=moltack"  />
+</p>
+
+  <!-- Github Profile Summary Cards -->
+
+<!-- Contact Section -->
+
+
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khalidkarimkqr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
