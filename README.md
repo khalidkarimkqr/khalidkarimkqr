@@ -96,7 +96,7 @@
 - ✨ Also focusing on problem-solving and full stack development <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
 - 🥅 <i><b>2025 Goals</b></i>: Get a good Job..❤️ <br>
-- ⚡ Interests : Hikinh, Football, Call of Duty, Rocket league 😏<br>
+- ⚡ Interests : Hiking, Football, Call of Duty, Rocket league 😏<br>
 </p>
  <!-- About Me -->
 
