@@ -26,7 +26,7 @@
   <br>
   🔬 Studying Computer Science at Simon Fraser University, BC
   <br>
-  📚 I’m currently working on building a crypto chatbot.
+  📚 I’m currently working on building a code editor.
   <br>
   📫 How to reach me: <a href="mailto: khalid13878@hotmail.com">khalid13878@hotmail.com</a>
 </p>
