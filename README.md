@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Khalid Karim, a Passionate Software Developer from Vancouer
+  Hi, I'm Khalid Karim, a passionate Software Developer from Vancouer
   <br>
   <br>
   🔬 Studying Computer Science at Simon Fraser University, BC
