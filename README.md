@@ -21,14 +21,11 @@
 
 <br>
 <p align="center">
-  Hi, I'm Khalid Karim, a Passionate Software Developer from Vancouer
+  <h2 align="center">Hi, I'm Khalid Karim, a Passionate Software Developer from Vancouver</h2>
   <br>
-  <br>
-  🔬 Studying Computer Science at Simon Fraser University, BC
-  <br>
-  📚 I’m currently working on building a code editor.
-  <br>
-  📫 How to reach me: <a href="mailto: khalid13878@hotmail.com">khalid13878@hotmail.com</a>
+  <h3 align="center">🔬 Studying Computer Science at Simon Fraser University, BC</h3>
+  <h3 align="center">📚 I'm currently working on building a code editor</h3>
+  <h3 align="center">📫 How to reach me: <a href="mailto:khalid13878@hotmail.com">khalid13878@hotmail.com</a></h3>
 </p>
 
 
@@ -131,30 +128,19 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg" height="27">
 - <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" height="27">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" height="27">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" height="27">
+  
 - <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="27">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" height="27">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="27">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" height="27">
-
-#### 📱 App Development
-
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="27">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg" height="27">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg" height="27">
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg" height="27">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg" height="27">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg" height="27">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" height="27">
+ 
 
 #### 🚦 Version Control & Documentation Tools
 
 - <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" height="27">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" height="27">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="27">
-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="27">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="27">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg" height="27">
+  
 
 
 
