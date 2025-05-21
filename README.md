@@ -24,7 +24,7 @@
   <h2 align="center">Hi, I'm Khalid Karim, a Passionate Software Developer from Vancouver</h2>
   <br>
   <h3 align="center">🔬 Studying Computer Science at Simon Fraser University, BC</h3>
-  <h3 align="center">📚 I'm currently working on building a code editor</h3>
+  <h3 align="center">📚 I'm currently working on building a invoice platform</h3>
   <h3 align="center">📫 How to reach me: <a href="mailto:khalid13878@hotmail.com">khalid13878@hotmail.com</a></h3>
 </p>
 
