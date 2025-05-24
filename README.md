@@ -167,7 +167,7 @@ An e-commerce web project for construction material — structure under review f
     <td align="center">
       <h3><strong></strong></h3>
       <a href="https://github.com/khalidkarimkqr">
-        <img  width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalidkarimkqr&theme=tokyonight" alt="Ranked by commits" />
+        <img  width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalidkarimkqr&theme=tokyonight" alt="Ranked by commits" />
       </a>
     </td>
   </tr>
