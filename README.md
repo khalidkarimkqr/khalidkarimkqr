@@ -1,9 +1,6 @@
 <img align='center' src= "header_image.png">
 
-<p align="center">
-<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalidkarimkqr&theme=tokyonight"  />
- <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalidkarimkqr&theme=moltack"  />
-</p>
+
 
   <!-- Github Profile Summary Cards -->
 
