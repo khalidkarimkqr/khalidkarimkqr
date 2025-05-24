@@ -190,38 +190,20 @@ An e-commerce web project for construction material — structure under review f
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+  
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Thought of the Day" style="display:inline-block; vertical-align:middle;">
+  
+  <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 <img src="https://raw.githubusercontent.com/khalidkarimkqr/khalidkarimkqr/output/snake.svg" alt="Snake animation" />
 
 
 
-
-
-
-
-
-
-
-<!-- Contribution Statistics and Visuals -->
-<p align="center">
-<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-
- 
-<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
-</p>
-<!-- Contribution Statistics and Visuals -->
-
-<!-- Activity Graph -->
-
-<!-- Footer -->
-
-<!-- Footer -->
 
 
 
