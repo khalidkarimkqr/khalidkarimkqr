@@ -3,9 +3,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+KHALID+KARIM...;Nice+to+meet+you!&center=true&size=31">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=617BED&center=true&vCenter=true&random=false&width=850&height=70&lines=Hello,+There!+👋;I+am+KHALID+KARIM...;Nice+to+meet+you!)](https://github.com/khalidkarimkqr)
+
   </a>
 </h1>
+
 
 <p align="center">
   <a href="https://instagram.com/khalid_kqr">
