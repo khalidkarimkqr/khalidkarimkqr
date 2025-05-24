@@ -23,8 +23,8 @@
 - Third Year Computer Science Undergrad in SFU, BC
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
 - Focusing on problem-solving and full stack development
-- 2025 Goals: Get a good Job..❤️
-- Interests : Hiking, Football, Call of Duty, Rocket league 😏
+- 2025 Goals: Get an Internship..❤️
+- Interests : Hiking, Football, Table Tennis, Call of Duty, Rocket league 😏
 - Visit my [Portfolio](https://ceo.pronexus.in) for more details about me.
 <!--End Intro-->
 
