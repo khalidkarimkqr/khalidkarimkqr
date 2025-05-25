@@ -18,7 +18,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with strong expertise in Next.js, React.js, Node.js, three.js, Express, and Python, along with experience in building APIs and backend systems.</p>
+<p align="left">I am a Full Stack Software Developer with strong expertise in Next.js, React.js, Node.js, three.js, Express, and Python, along with experience in building APIs and backend systems.</p>
 
 - Third Year Computer Science Undergrad in SFU, BC
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
