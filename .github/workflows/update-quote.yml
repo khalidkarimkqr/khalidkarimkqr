@@ -1,9 +1,9 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch: # Manually trigger the workflow
   schedule:
-    - cron: '30 6 * * *'  
+    - cron: '30 6 * * *' # Runs daily at 6:30 UTC
 
 jobs:
   update-readme:
@@ -18,8 +18,8 @@ jobs:
         with:
           node-version: 14
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install dependencies (without generating package-lock.json)
+        run: npm install --no-package-lock
 
       - name: Update Quote
         run: node update-quote.js
@@ -28,6 +28,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git config user.name 'khalidkarimkqr'
+          git config user.email 'khalid13878@hotmail.com'
           git add README.md
-          git -c user.name='khalidkarimkqr' -c user.email='khalid13878@hotmail.com' commit -m "Update README with daily quote" -a
+          git commit -m "Update README with daily quote" || echo "No changes to commit"
           git push
