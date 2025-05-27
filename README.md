@@ -52,7 +52,7 @@ Students can watch live campus events while admins create and broadcast them usi
 
 -  [**Resumate**](https://github.com/MAKM101/ResuMate)  
 An AI-powered resume and cover letter generator built with React, OpenAI API, Jsearch API and Tailwind CSS.
-Built with teammates I met in our first MACM 101 course—hence the repo name MAKM101, a funny nod to how it all started.
+Built with teammates I met in our first MACM 101 course—hence the repo name MAKM101 (our initials), a funny nod to how it all started.
 
 -  [**Heart Disease Predictor**](https://github.com/khalidkarimkqr/heart-disease-predictor)  
 An ML-based tool that uses logistic regression to estimate heart disease risk through a simple and intuitive interface.
