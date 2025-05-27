@@ -63,7 +63,7 @@ Delivers live crypto prices and market insights using React, OpenAI API, and the
 -  [**Wedding RSVP**](https://github.com/khalidkarimkqr/wedding-rsvp-app)  
 Allows guests to RSVP online, with an admin dashboard to view and manage all registered attendees—built with Next.js, Supabase, and Resend.
 
--  [**New portfolio website**](https://github.com/khalidkarimkqr/Dynamic-Portfolio)  
+-  [**New dynamic portfolio website**](https://github.com/khalidkarimkqr/Dynamic-Portfolio)  
 A refreshed, more interactive portfolio with smooth GSAP animations and better UI, built using TypeScript, GSAP, and Tailwind CSS.
 
 -  [**Old portfolio website**](https://github.com/khalidkarimkqr/old-portfolio)  
