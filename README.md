@@ -25,37 +25,65 @@
 - Focusing on problem-solving and full stack development
 - 2025 Goals: Get an Internship..❤️
 - Interests : Hiking, Football, Table Tennis, Call of Duty, Rocket league 😏
-- Visit my [Portfolio](https://ceo.pronexus.in) for more details about me.
+- Visit my [Portfolio](https://dynamic-portfolio-kk.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Suhaib3100&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=khalidkarimkqr&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="khalidkarimkqr" style="padding-right:20px;" />
 </p>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Featured Projects: </i>
 
+> **Note:** About 80% of the projects below have solid README files with proper documentation, source code, live demo links, walkthrough videos, and screenshots. I’ve taken the time to make sure each one is easy to follow, so you can quickly get what the project’s about, what it does, and how to run it.  
+>  
+> Feel free to click on the project links—everything you need is just a scroll away..
 
-- 🎯 [**Secret Number Game**](https://github.com/cttbiel/secret_number_game)  
-A simple number guessing game using JavaScript, HTML, and CSS.  
+<br/>
 
-- 🔐 [**Text Decoder**](https://github.com/cttbiel/text-decoder)  
-A text encryption and decryption tool made with JavaScript, HTML, and CSS.
 
-- 🌐 [**Personal Portfolio**](https://github.com/cttbiel/Gabriel)  
-A personal website built with React, Node.js, JavaScript, and CSS.  
 
-- 🎵 [**Musique**](https://github.com/cttbiel/musique)  
-A music streaming prototype built with React, Node.js, and TypeScript.
+
+
+-  [**UniStream**](https://github.com/khalidkarimkqr/UniStream)  
+Students can watch live campus events while admins create and broadcast them using React, Node.js, Express, and MongoDB. 
+
+-  [**Resumate**](https://github.com/MAKM101/ResuMate)  
+An AI-powered resume and cover letter generator built with React, OpenAI API, Jsearch API and Tailwind CSS.
+Built with teammates I met in our first MACM 101 course—hence the repo name MAKM101, a funny nod to how it all started.
+
+-  [**Heart Disease Predictor**](https://github.com/khalidkarimkqr/heart-disease-predictor)  
+An ML-based tool that uses logistic regression to estimate heart disease risk through a simple and intuitive interface.
+
+-  [**Crypto Chatbot**](https://github.com/khalidkarimkqr/crypto-chatbot)  
+Delivers live crypto prices and market insights using React, OpenAI API, and the Vercel AI SDK.
+
+-  [**Wedding RSVP**](https://github.com/khalidkarimkqr/wedding-rsvp-app)  
+Allows guests to RSVP online, with an admin dashboard to view and manage all registered attendees—built with Next.js, Supabase, and Resend.
+
+-  [**New portfolio website**](https://github.com/khalidkarimkqr/Dynamic-Portfolio)  
+A refreshed, more interactive portfolio with smooth GSAP animations and better UI, built using TypeScript, GSAP, and Tailwind CSS.
+
+-  [**Old portfolio website**](https://github.com/khalidkarimkqr/old-portfolio)  
+My first personal site to showcase projects and skills, built using React and Framer Motion.
+
+-  [**3D Book Slider**](https://github.com/khalidkarimkqr/3d-book-slider-threejs)  
+  n interactive 3D book page-flipping interface with smooth transitions, built using Three.js and React Three Fiber.
+
+-  [**RecipeHub**](https://github.com/khalidkarimkqr/recipehub-project)  
+A responsive recipe application with custom recipe uploads, built using HTML, CSS, and JavaScript.
+
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Upcoming/ In Progress: </i>
 
-- 🧱 [**BrickStore**](https://github.com/cttbiel/brickstore)  
-An e-commerce web project for construction material — structure under review for React or Java backend.
+-  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipping-SaaS)  
+I’m building a tool that takes super long podcast videos and turns them into short, viral clips—using Next.js, TypeScript, Tailwind, AWS, Modal, and Inngest. <br/>
+Planning to add Stripe at the end so people can buy credits and use it like a full SaaS app. <br/>
+going to be the best project i have worked till now. Super fun and hoping to learn a lot of new stuff.
 
 ---
 
