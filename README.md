@@ -89,40 +89,6 @@ going to be the best project i have worked till now. Super fun and hoping to lea
 ---
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> What I’m Exploring & Mastering </i>
- <!-- Achievement Corner -->
- 
-
- <!-- Banners 2nd Phase -->
-
- <!-- Banners 2nd Phase -->
- 
-
- <!-- Typewriting Introduction -->
-
-
- <!-- Typewriting Introduction -->
-
- <!-- Banners 3rd Phase : About Me -->
-<p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
-</p>
- <!-- Banners 3rd Phase : About Me -->
-
- <!-- About Me -->
-<p align='left'>
-  <li>Expanding my expertise in Next.js for full-stack development.</li>
-  <li>Deepening my understanding of Python OOP concepts.</li>
-  <li>Enhancing my backend skills with Express and API development.</li>
-  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
-</p>
- <!-- About Me -->
-
-
 <!-- Skill Section -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
@@ -166,7 +132,44 @@ going to be the best project i have worked till now. Super fun and hoping to lea
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="27">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="27">
 
-  ---
+
+---
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> What I’m Exploring & Mastering </i>
+ <!-- Achievement Corner -->
+ 
+
+ <!-- Banners 2nd Phase -->
+
+ <!-- Banners 2nd Phase -->
+ 
+
+ <!-- Typewriting Introduction -->
+
+
+ <!-- Typewriting Introduction -->
+
+ <!-- Banners 3rd Phase : About Me -->
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
+</p>
+ <!-- Banners 3rd Phase : About Me -->
+
+ <!-- About Me -->
+<p align='left'>
+  <li>Expanding my expertise in Next.js for full-stack development.</li>
+  <li>Deepening my understanding of Python OOP concepts.</li>
+  <li>Enhancing my backend skills with Express and API development.</li>
+  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
+  <li>Learning about serverless functions and microservices architecture.</li>
+  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
+  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
+  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
+</p>
+
+---
+ <!-- About Me -->
 
   <!-- GitHub Stats -->
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
