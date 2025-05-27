@@ -70,7 +70,7 @@ A refreshed, more interactive portfolio with smooth GSAP animations and better U
 My first personal site to showcase projects and skills, built using React and Framer Motion.
 
 -  [**3D Book Slider**](https://github.com/khalidkarimkqr/3d-book-slider-threejs)  
-  n interactive 3D book page-flipping interface with smooth transitions, built using Three.js and React Three Fiber.
+  An interactive 3D book page-flipping interface with smooth transitions, built using Three.js and React Three Fiber.
 
 -  [**RecipeHub**](https://github.com/khalidkarimkqr/recipehub-project)  
 A responsive recipe application with custom recipe uploads, built using HTML, CSS, and JavaScript.
@@ -80,7 +80,8 @@ A responsive recipe application with custom recipe uploads, built using HTML, CS
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Upcoming/ In Progress: </i>
 
--  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipping-SaaS)  
+-  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipping-SaaS)
+  <br/>
 I’m building a tool that takes super long podcast videos and turns them into short, viral clips—using Next.js, TypeScript, Tailwind, AWS, Modal, and Inngest. <br/>
 Planning to add Stripe at the end so people can buy credits and use it like a full SaaS app. <br/>
 going to be the best project i have worked till now. Super fun and hoping to learn a lot of new stuff!!
