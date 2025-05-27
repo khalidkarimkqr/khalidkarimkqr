@@ -83,7 +83,7 @@ A responsive recipe application with custom recipe uploads, built using HTML, CS
 -  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipping-SaaS)  
 I’m building a tool that takes super long podcast videos and turns them into short, viral clips—using Next.js, TypeScript, Tailwind, AWS, Modal, and Inngest. <br/>
 Planning to add Stripe at the end so people can buy credits and use it like a full SaaS app. <br/>
-going to be the best project i have worked till now. Super fun and hoping to learn a lot of new stuff.
+going to be the best project i have worked till now. Super fun and hoping to learn a lot of new stuff!!
 
 ---
 
