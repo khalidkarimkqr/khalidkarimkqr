@@ -39,7 +39,7 @@
 
 > **Note:** About 80% of the projects below have solid README files with proper documentation, source code, live demo links, walkthrough videos, and screenshots. I’ve taken the time to make sure each one is easy to follow, so you can quickly get what the project’s about, what it does, and how to run it.  
 >  
-> Feel free to click on the project links—everything you need is just a scroll away..
+> Feel free to click on the project links—everything you need is just a scroll away...
 
 <br/>
 
