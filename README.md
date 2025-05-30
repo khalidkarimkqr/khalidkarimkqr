@@ -18,7 +18,8 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Software Developer with strong expertise in React.js, Node.js, Django, Express, and Python, along with experience in building APIs and backend systems.</p>
+<p align="left"><p align="left">I’m a Full Stack Software Developer with experience in React, Node.js, Django, Express, and Python. Skilled at building backend systems and deploying apps using Docker, GitHub Actions, and AWS EC2. I also enjoy working with machine learning models and real-world datasets to build intelligent applications.</p>
+</p>
 
 - Third Year Computer Science Undergrad in SFU, BC
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -44,7 +45,9 @@
 <br/>
 
 
-
+-  [**NASA Mission Control**](https://github.com/khalidkarimkqr/nasa-project)  
+A fullstack space mission scheduler that connects to the SpaceX API.  
+Deployed using Docker on an AWS EC2 server with a complete CI/CD pipeline built using GitHub Actions.
 
 
 -  [**UniStream**](https://github.com/khalidkarimkqr/UniStream)  
@@ -80,14 +83,16 @@ A responsive recipe application with custom recipe uploads, built using HTML, CS
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Upcoming/ In Progress: </i>
 
--  [**Football Analysis**](https://github.com/khalidkarimkqr/football_analysis)
+- [**Football Analysis**](https://github.com/khalidkarimkqr/football_analysis)
+  <br/>
+  I’m trying to build something that can track football players on the field. The idea is to separate teams by jersey color, measure how far they run, and also see how fast they’re going at each moment as the video plays.
   <br/>
 
 -  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipping-SaaS)
-  <br/>
-I’m building a tool that takes super long podcast videos and turns them into short, viral clips—using Next.js, TypeScript, Tailwind, AWS, Modal, and Inngest. <br/>
-Planning to add Stripe at the end so people can buy credits and use it like a full SaaS app. <br/>
-going to be the best project i have worked till now. Super fun and hoping to learn a lot of new stuff!!
+   <br/> 
+   I ’m building a tool that takes super long podcast videos and turns them into short, viral clips—using Next.js, TypeScript, Tailwind, AWS, Modal, and Inngest.
+   Planning to add Stripe at the end so people can buy credits and use it like a full SaaS app. <br/>
+   going to be the best project i have worked till now. Super fun and hoping to learn a lot of new stuff!!
 
 ---
 
