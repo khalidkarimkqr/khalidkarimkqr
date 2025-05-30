@@ -80,6 +80,9 @@ A responsive recipe application with custom recipe uploads, built using HTML, CS
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Upcoming/ In Progress: </i>
 
+-  [**Football Analysis**](https://github.com/khalidkarimkqr/football_analysis)
+  <br/>
+
 -  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipping-SaaS)
   <br/>
 I’m building a tool that takes super long podcast videos and turns them into short, viral clips—using Next.js, TypeScript, Tailwind, AWS, Modal, and Inngest. <br/>
