@@ -21,9 +21,9 @@
 <p align="left"><p align="left">I’m a Full Stack Software Developer with experience in React, Node.js, Django, Express, and Python. Skilled at building backend systems and deploying apps using Docker, GitHub Actions, and AWS EC2. I also enjoy working with machine learning models and real-world datasets to build intelligent applications.</p>
 </p>
 
-- Third Year Computer Science Undergrad in SFU, BC
+- Third Year Computer Science Undergrad in SFU, BC.
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
-- Focusing on problem-solving and full stack development
+- Focusing on full stack development and machine learning.
 - 2025 Goals: Get an Internship..❤️
 - Interests : Hiking, Football, Table Tennis, Call of Duty, Rocket league 😏
 - Visit my [Portfolio](https://dynamic-portfolio-kk.vercel.app/) for more details about me.
@@ -200,7 +200,7 @@ A responsive recipe application with custom recipe uploads, built using HTML, CS
   <tr>
     <td width ="50%" align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/khalidkarimkqr/UniStream">
+      <a href="https://github.com/khalidkarimkqr/football_analysis">
         <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=khalidkarimkqr&repo=UniStream&theme=tokyonight&show_owner=true" alt="UniStream" />
       </a>
     </td>
