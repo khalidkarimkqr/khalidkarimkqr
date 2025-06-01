@@ -24,7 +24,7 @@
 - Third Year Computer Science Undergrad in SFU, BC.
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
 - Focusing on full stack development and machine learning.
-- 2025 Goals: Get an Internship...❤️
+- 2025 Goals: Get an Internship....❤️
 - Interests : Hiking, Football, Table Tennis, Call of Duty, Rocket league 😏
 - Visit my [Portfolio](https://dynamic-portfolio-kk.vercel.app/) for more details about me.
 <!--End Intro-->
