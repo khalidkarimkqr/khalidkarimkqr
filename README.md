@@ -88,7 +88,7 @@ A responsive recipe application with custom recipe uploads, built using HTML, CS
   I’m trying to build something that can track football players on the field. The idea is to separate teams by jersey color, measure how far they run, and also see how fast they’re going at each moment as the video plays.
   <br/>
 
--  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipping-SaaS)
+-  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipper-SaaS)
    <br/> 
    I ’m building a tool that takes super long podcast videos and turns them into short, viral clips—using Next.js, TypeScript, Tailwind, AWS, Modal, and Inngest.
    Planning to add Stripe at the end so people can buy credits and use it like a full SaaS app. <br/>
