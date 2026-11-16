@@ -5,10 +5,7 @@
   <!-- Github Profile Summary Cards -->
 
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 
 
@@ -17,15 +14,17 @@
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
+
 <!--Start Intro-->               
-<p align="left"><p align="left">I’m a Full Stack Software Developer with experience in React, Node.js, Django, Express, and Python. Skilled at building backend systems and deploying apps using Docker, GitHub Actions, and AWS EC2. I also enjoy working with machine learning models and real-world datasets to build intelligent applications.</p>
+<p align="left"><p align="left">I’m a Software Developer who loves building things, from full-stack apps to AI-powered systems. I’ve worked with Python, TypeScript, React, AWS, and Docker to bring ideas to life and solve real-world problems. I’m especially interested in software engineering, machine learning, cloud computing, and exploring how new technologies can make everyday things smarter.</p>
 </p>
 
-- Third Year Computer Science Undergrad in SFU, BC.
+
+- Fourth Year Computer Science Undergrad in SFU, BC.
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
-- Focusing on full stack development and machine learning.
-- 2025 Goals: Get an Internship....❤️
-- Interests : Hiking, Football, Table Tennis, Call of Duty, Rocket league 😏
+- Focusing on full stack development and AI engineering .
+- 2026 Goals: Get an Internship...❤️
+- Interests : Hiking, Football, Table Tennis, Call of Duty, Rocket league
 - Visit my [Portfolio](https://dynamic-portfolio-kk.vercel.app/) for more details about me.
 <!--End Intro-->
 
@@ -44,7 +43,12 @@
 
 <br/>
 
+-  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipper-SaaS)  
+I built a tool that automatically turns long YouTube videos into short, viral clips using Next.js, Python, AWS, Modal, and Inngest.  
+It finds the best moments and automatically posts clips to YouTube Shorts, Instagram Reels, and TikTok.  
+Also integrated Stripe payments to make it a full SaaS app!
 
+   
 -  [**NASA Mission Control**](https://github.com/khalidkarimkqr/nasa-project)  
 A fullstack space mission scheduler that connects to the SpaceX API.  
 Deployed using Docker on an AWS EC2 server with a complete CI/CD pipeline built using GitHub Actions.
@@ -79,20 +83,9 @@ My first personal site to showcase projects and skills, built using React and Fr
 A responsive recipe application with custom recipe uploads, built using HTML, CSS, and JavaScript.
 
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Upcoming/ In Progress: </i>
-
-- [**Football Analysis**](https://github.com/khalidkarimkqr/football_analysis)
-  <br/>
-  I’m trying to build something that can track football players on the field. The idea is to separate teams by jersey color, measure how far they run, and also see how fast they’re going at each moment as the video plays.
-  <br/>
-
--  [**AI Podcast Clipping SaaS**](https://github.com/khalidkarimkqr/AI-Podcast-Clipper-SaaS)
-   <br/> 
-   I ’m building a tool that takes super long podcast videos and turns them into short, viral clips—using Next.js, TypeScript, Tailwind, AWS, Modal, and Inngest.
-   Planning to add Stripe at the end so people can buy credits and use it like a full SaaS app. <br/>
-   going to be the best project i have worked till now. Super fun and hoping to learn a lot of new stuff!!
+- [**Football Analysis**](https://github.com/khalidkarimkqr/football_analysis)  
+I’m trying to build something that can track football players on the field. The idea is to separate teams by jersey color, measure how far they run, and also see how fast they’re going at each moment as the video plays.
+  
 
 ---
 
@@ -166,14 +159,14 @@ A responsive recipe application with custom recipe uploads, built using HTML, CS
 
  <!-- About Me -->
 <p align='left'>
-  <li>Expanding my expertise in Next.js for full-stack development.</li>
-  <li>Deepening my understanding of Python OOP concepts.</li>
-  <li>Enhancing my backend skills with Express and API development.</li>
-  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
+  <li>Building scalable backend systems with Python, FastAPI, and TypeScript.</li>
+  <li>Exploring AI agents, LLMs, and retrieval-augmented generation (RAG).</li>
+  <li>Deepening my skills in algorithms, data structures, and system design.</li>
+  <li>Working with AWS services like ECS, EC2, S3, and Bedrock.</li>
+  <li>Learning more about distributed systems and microservices architecture.</li>
+  <li>Exploring machine learning, Bayesian optimization, and model deployment.</li>
+  <li>Improving CI/CD workflows with Docker, Terraform, and GitHub Actions.</li>
+  <li>Building full-stack applications with React, Next.js, and SQL databases.</li>
 </p>
 
 ---
